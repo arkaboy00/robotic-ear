@@ -2,7 +2,7 @@
 
 A 3‑degree‑of‑freedom (3‑DOF) robotic ear prototype, driven by servo motors (regular motor+reductor with external encoders) and controlled via ESP32.  
 
-**Status:** This project is in early development. Some folders may be incomplete or not yet populated with files. Documentation, media, and assembly instructions will be added as the design evolves.
+> 🚧 **Status:** This project is in early development. Some folders may be incomplete or not yet populated with files. Documentation, media, and assembly instructions will be added as the design evolves.
 
 ---
 
