@@ -16,6 +16,13 @@ A 3‑degree‑of‑freedom (3‑DOF) robotic ear prototype, driven by servo mot
 
 ---
 
+## Code
+
+> **Warning:** code for this project was mostly AI-generated.  
+> I'm more of a CAD+mechanic engineer than a programmer, so AI code is probably better than anything I'd write by hand
+
+---
+
 ## CAD Compatibility
 
 - The original CAD files are in `.m3d` format, created with **KOMPAS‑3D Educational version**.  
